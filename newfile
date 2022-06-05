@@ -1,0 +1,18 @@
+
+    		FILE *fp;
+               char line[100];
+    #include<stdio.h>
+#include<stdio.h>
+#include<string.h>
+void main(int argc , char *argv[])
+{
+Never gonna give you up
+Never gonna let you down
+Never gonna turn around and desert you
+Never gonna turn around and desert you
+Never gonna make you cry
+Never gonna say goodbye 
+Never gonna tell a lie 
+And hurt youNever gonna give you up
+Never gonna let you down
+Never gonna turn around and desert you
